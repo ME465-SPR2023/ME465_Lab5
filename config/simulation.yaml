@@ -1,0 +1,5 @@
+apriltag:
+  ros__parameters:
+    size: 0.2
+    detector:
+      threads: 2
